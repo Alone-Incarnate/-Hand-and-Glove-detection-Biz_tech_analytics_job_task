@@ -1,0 +1,35 @@
+{
+  "filename": "9_jpg.rf.26df9b46af84f8586bdacd20abbd53b5.jpg",
+  "detections": [
+    {
+      "label": "gloves",
+      "confidence": 0.8809,
+      "bbox": [
+        85.57,
+        133.86,
+        556.73,
+        380.96
+      ]
+    },
+    {
+      "label": "gloves",
+      "confidence": 0.6768,
+      "bbox": [
+        52.8,
+        340.54,
+        607.74,
+        633.46
+      ]
+    },
+    {
+      "label": "no_gloves",
+      "confidence": 0.6599,
+      "bbox": [
+        456.89,
+        437.25,
+        640.0,
+        638.5
+      ]
+    }
+  ]
+}

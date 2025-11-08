@@ -1,0 +1,25 @@
+{
+  "filename": "WIN_20240116_15_03_37_Pro_jpg.rf.8d7fc94f8546a203b5739b1b4864e1ed.jpg",
+  "detections": [
+    {
+      "label": "gloves",
+      "confidence": 0.8789,
+      "bbox": [
+        279.38,
+        161.26,
+        451.14,
+        636.95
+      ]
+    },
+    {
+      "label": "gloves",
+      "confidence": 0.8559,
+      "bbox": [
+        419.02,
+        141.02,
+        618.79,
+        636.09
+      ]
+    }
+  ]
+}
