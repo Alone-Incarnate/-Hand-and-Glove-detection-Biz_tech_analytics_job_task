@@ -16,7 +16,7 @@ The system takes a folder of images, runs object detection, and saves:
 
 I created a **custom dataset** by collecting and manually annotating images of hands with and without gloves using **Vott** in pascal voc format and then converted into yolo format.  
 To improve model performance, I applied data augmentation techniques such as flips and zoom.  
-The augmented datasets is included for reference.
+
 
 **Classes:**
 1. `no_glove`
