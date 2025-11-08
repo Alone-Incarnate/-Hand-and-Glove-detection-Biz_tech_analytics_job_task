@@ -31,5 +31,10 @@ The augmented datasets is included for reference.
 - **Training Type:** Fine-tuned on a 2-class dataset  
 - **Epochs:** 40  
  
+## How to run my script
+1. Install dependencies
+pip install ultralytics opencv-python
 
+2. Run detection
+python detection_script.py --source ./input --out_dir ./output --conf 0.5
 
